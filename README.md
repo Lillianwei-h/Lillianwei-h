@@ -2,31 +2,30 @@ Hi! I'm Siwei Han(韩偲蔚), a senior at Fudan University, Computer Science and
 
 # 📝 Publications 
 [Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918)
+
 In this paper, we propose a novel comparison-based CoT generation algorithm that directly identifies the most promising thoughts with the noisy feedback from the LLM. In each round, we randomly pair intermediate thoughts and directly prompt the LLM to select the more promising one from each pair, allowing us to identify the most promising thoughts through an iterative process. To further model the noise in the comparison, we resort to the techniques of ensemble and dueling bandits and propose two variants of the proposed algorithm.
 
 Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 
 # 📖 Educations
 
-<img src="./images/fdu.png" alt="fdu" style="zoom:20%; float: left" />&emsp; [Fudan University](https://www.fudan.edu.cn/en/)    
-&emsp; Undergraduate student in Computer Science and Technology. *2021.09 - now* <span style="float: right;">**GPA: 3.52/4**</span>
+[Fudan University](https://www.fudan.edu.cn/en/)    
+Undergraduate student in Computer Science and Technology. *2021.09 - now* <span style="float: right;">**GPA: 3.52/4**</span>
 
-<img src="./images/unc.png" alt="unc" style="zoom:24%; float: left" />&emsp; [University of North Carolina at Chapel Hill](https://www.unc.edu/)    
-&emsp; Exchange student. *2023.08 - 2023.12* <span style="float: right;">**GPA: 3.89/4**</span>
-<br><br>
+[University of North Carolina at Chapel Hill](https://www.unc.edu/)    
+Exchange student. *2023.08 - 2023.12* <span style="float: right;">**GPA: 3.89/4**</span>
+
 
 # 💼 Internships
 
-<img src="./images/atc.png" alt="atc" style="zoom:60%; float: left" />&emsp; [Advantest, China](https://www.advantest.com/)    
-&emsp; R&D Associate Engineer. *2024.01 - 2024.05*
-<br><br>
+[Advantest, China](https://www.advantest.com/)    
+R&D Associate Engineer. *2024.01 - 2024.05*
+
 
 
 # 💻 Projects
 ### [LLM Reviser](https://github.com/Lillianwei-h/weak_aligner) Mar. 2024 - Jun. 2024
 Leverage a reviser model to enhance the quality of the response from the original LLM and further preference tuning the LLM with the LLM-generated responses as dispreferred answers and the revised answers as preferred answers.
-
-<img src="./images/revisor.png" alt="revisor" style="zoom:20%;" />
 
 ### [THSH shell](https://github.com/Lillianwei-h/Comp-530/tree/lab1) Oct. 2023
 This shell can run standard linux shell commands. It also supports creating new built-in commands. It
