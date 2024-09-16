@@ -1,7 +1,9 @@
 Hi! I'm Siwei Han(韩偲蔚), a senior at Fudan University, Computer Science and Technology Department. I am interested in alignment and application of LLMs, VLMs and multimodal models, currently interning in [Prof. Huaxiu Yao](https://www.huaxiuyao.io)'s team at UNC.
 
 # 📝 Publications 
-[Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918) **ICML2024**
+[Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918) 
+
+**ICML2024**
 
 In this paper, we propose a novel comparison-based CoT generation algorithm that directly identifies the most promising thoughts with the noisy feedback from the LLM. In each round, we randomly pair intermediate thoughts and directly prompt the LLM to select the more promising one from each pair, allowing us to identify the most promising thoughts through an iterative process. To further model the noise in the comparison, we resort to the techniques of ensemble and dueling bandits and propose two variants of the proposed algorithm.
 
@@ -10,10 +12,12 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 # 📖 Educations
 
 [Fudan University](https://www.fudan.edu.cn/en/)    
-Undergraduate student in Computer Science and Technology. *2021.09 - now* <span style="float: right;">**GPA: 3.52/4**</span>
+Undergraduate student in Computer Science and Technology. *2021.09 - now* 
+<span style="float: right;">**GPA: 3.52/4**</span>
 
 [University of North Carolina at Chapel Hill](https://www.unc.edu/)    
-Exchange student. *2023.08 - 2023.12* <span style="float: right;">**GPA: 3.89/4**</span>
+Exchange student. *2023.08 - 2023.12* 
+<span style="float: right;">**GPA: 3.89/4**</span>
 
 
 # 💼 Internships
