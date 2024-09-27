@@ -48,7 +48,9 @@ Designing questions and evaluation criteria for assessing large language models'
 # 🎨🎹🎮🐈 Interests
 - Drawing illustration and manga
   (one of my best paintings⬇️)
-  <img src="https://github.com/user-attachments/assets/bc2ffb6b-f0ab-411c-b13a-4efe9344d18b" style="width: 50%;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/bc2ffb6b-f0ab-411c-b13a-4efe9344d18b" style="width: 30%;">
+  <br>
 - Improvisational piano playing and piano recomposition
 - Games
   - Baldur's Gate 3
