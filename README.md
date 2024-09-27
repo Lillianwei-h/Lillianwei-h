@@ -57,6 +57,9 @@ Designing questions and evaluation criteria for assessing large language models'
   - Divinity: Original Sin 2
   - The Legend of Zelda: Breath of the Wild
 - Kitty!
+  <br>
+  <img src="https://github.com/user-attachments/assets/3e87b4f1-f8f7-44b0-aaf2-91eceb4ecce7" style="width: 50%;">
+  <br>
 <br><br>
 
 # 📊 Statistics
