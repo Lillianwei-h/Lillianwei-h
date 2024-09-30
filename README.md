@@ -49,7 +49,7 @@ Designing questions and evaluation criteria for assessing large language models'
 - Drawing illustration and manga
   (one of my best paintings⬇️)
   <br>
-  <img src="https://github.com/user-attachments/assets/bc2ffb6b-f0ab-411c-b13a-4efe9344d18b" style="width: 30%;">
+  <img src="https://github.com/user-attachments/assets/67ef32b3-b763-43c1-aef2-b6c8f767f110" style="width: 30%;">
   <br>
 - Improvisational piano playing and piano recomposition
 - Games
